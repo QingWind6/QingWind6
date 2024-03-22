@@ -1,16 +1,17 @@
+# Visitor ![Visitor Count](https://profile-counter.glitch.me/HwzLoveDz/count.svg)
 ### Hi there 👋
+###    📺welcome to my home 📺
 
-<!--
-**QingWind6/QingWind6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Earth
+- 🌱 I’m currently learning ESP32、Fusion 360、Robotics、Embedded Machine Learning
+- 💬 Ask me about anything
+- 📫 How to reach me: jojang2u@gmail.com
+- 😄 Pronouns: Flying to the moon
+- ⚡ Fun fact: traveling
 
-Here are some ideas to get you started:
+***
+[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=QingWind6&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QingWind6&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+***
+
